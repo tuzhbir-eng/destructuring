@@ -1,35 +1,3 @@
-// class Post {
-// 	constructor(
-// 		id,
-// 		title,
-// 		author,
-// 		text,
-// 		addDate,
-// 		likeCount,
-// 	) {
-// 		this._id = id;
-// 		this._title = title;
-// 		this._author = author;
-// 		this._text = text;
-// 		this._addDate = addDate;
-// 		this._likeCount = likeCount;
-// 	}
-// 	set id(value) {
-// 		this._id = value;
-// 	}
-
-// 	get addDate() {
-// 		return this._addDate;
-// 	}
-// }
-// const post1 = new Post(
-// 	"12",
-// 	"Book",
-// 	"Shevchenko",
-// 	"qwerty qwerty",
-// 	2020,
-// 	89,
-// );
 function someData({
 	age,
 	education: { university },
