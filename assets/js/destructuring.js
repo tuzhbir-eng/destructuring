@@ -8,7 +8,7 @@ function someData({
 	contacts: { email: userEmail },
 	hobbies: [, secondHobbie],
 	family: {
-		children: [{ name: firstChildName }, ,],
+		children: [{ name: firstChildName }],
 	},
 }) {
 	console.log(
